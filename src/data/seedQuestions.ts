@@ -1,5 +1,6 @@
 import type { Question } from '../types';
 import { iscSscGeoQuestions } from './iscSscGeoQuestions';
+import { jsonNewQuestions } from './jsonNewQuestions';
 
 const jscMathQuestions: Question[] = [
   // ─── SCIENCE JSC – PLANTS ───────────────────────────────────────────────────
@@ -1399,4 +1400,4 @@ const jscMathQuestions: Question[] = [
   },
 ];
 
-export const seedQuestions: Question[] = [...jscMathQuestions, ...iscSscGeoQuestions];
+export const seedQuestions: Question[] = [...jscMathQuestions, ...iscSscGeoQuestions, ...jsonNewQuestions];

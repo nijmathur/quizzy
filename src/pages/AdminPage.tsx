@@ -30,6 +30,20 @@ const LEVELS: Record<string, { level: string; gradeRange: string }[]> = {
     { level: 'JGB', gradeRange: 'Grades 1-3' },
     { level: 'SGB', gradeRange: 'Grades 4-8' },
   ],
+  vocabulary: [
+    { level: 'JSB', gradeRange: 'Grades 1-5' },
+    { level: 'SSB', gradeRange: 'Grades 6-8' },
+  ],
+  spelling: [
+    { level: 'JSB', gradeRange: 'Grades 1-5' },
+    { level: 'SSB', gradeRange: 'Grades 6-8' },
+  ],
+  computerScience: [
+    { level: 'CS', gradeRange: 'Grades 4-8' },
+  ],
+  brainBee: [
+    { level: 'BB', gradeRange: 'Grades 6-8' },
+  ],
 };
 
 export default function AdminPage() {
@@ -62,7 +76,7 @@ export default function AdminPage() {
     setShowForm(true);
   }
 
-  function handleSubjectChange(subject: 'science' | 'math' | 'geography') {
+  function handleSubjectChange(subject: 'science' | 'math' | 'geography' | 'vocabulary' | 'spelling' | 'computerScience' | 'brainBee') {
     const levels = LEVELS[subject];
     setForm(f => ({ ...f, subject, level: levels[0].level, gradeRange: levels[0].gradeRange }));
   }
@@ -133,6 +147,10 @@ export default function AdminPage() {
           <option value="science">Science</option>
           <option value="math">Math</option>
           <option value="geography">Geography</option>
+          <option value="vocabulary">Vocabulary</option>
+          <option value="spelling">Spelling</option>
+          <option value="computerScience">Computer Science</option>
+          <option value="brainBee">Brain Bee</option>
         </select>
         <select
           value={filter.level}
@@ -148,6 +166,10 @@ export default function AdminPage() {
           <option value="MB3">MB3</option>
           <option value="JGB">JGB</option>
           <option value="SGB">SGB</option>
+          <option value="JSB">JSB</option>
+          <option value="SSB">SSB</option>
+          <option value="CS">CS</option>
+          <option value="BB">BB</option>
         </select>
         <select
           value={filter.topic}
@@ -219,12 +241,16 @@ export default function AdminPage() {
                   <label className="block text-sm font-medium text-slate-600 mb-1">Subject</label>
                   <select
                     value={form.subject}
-                    onChange={e => handleSubjectChange(e.target.value as 'science' | 'math' | 'geography')}
+                    onChange={e => handleSubjectChange(e.target.value as 'science' | 'math' | 'geography' | 'vocabulary' | 'spelling' | 'computerScience' | 'brainBee')}
                     className="w-full border border-slate-200 rounded-lg px-3 py-2 text-sm"
                   >
                     <option value="science">Science</option>
                     <option value="math">Math</option>
                     <option value="geography">Geography</option>
+                    <option value="vocabulary">Vocabulary</option>
+                    <option value="spelling">Spelling</option>
+                    <option value="computerScience">Computer Science</option>
+                    <option value="brainBee">Brain Bee</option>
                   </select>
                 </div>
                 <div>

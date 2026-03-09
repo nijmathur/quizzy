@@ -35,6 +35,44 @@ const SUBJECTS = [
       { id: 'SGB', label: 'SGB', gradeRange: 'Grades 4-8' },
     ],
   },
+  {
+    id: 'vocabulary',
+    label: 'Vocabulary Bee',
+    emoji: '📖',
+    description: 'NSF Vocabulary Bee — Synonyms, Antonyms, Word Meanings',
+    levels: [
+      { id: 'JSB', label: 'Junior (JSB)', gradeRange: 'Grades 1-5' },
+      { id: 'SSB', label: 'Senior (SSB)', gradeRange: 'Grades 6-8' },
+    ],
+  },
+  {
+    id: 'spelling',
+    label: 'Spelling Bee',
+    emoji: '🔤',
+    description: 'NSF Spelling Bee — Junior and Senior levels',
+    levels: [
+      { id: 'JSB', label: 'Junior (JSB)', gradeRange: 'Grades 1-5' },
+      { id: 'SSB', label: 'Senior (SSB)', gradeRange: 'Grades 6-8' },
+    ],
+  },
+  {
+    id: 'computerScience',
+    label: 'CS Bee',
+    emoji: '💻',
+    description: 'NSF Computer Science — Programming, Algorithms, Networks',
+    levels: [
+      { id: 'CS', label: 'CS', gradeRange: 'Grades 4-8' },
+    ],
+  },
+  {
+    id: 'brainBee',
+    label: 'Brain Bee',
+    emoji: '🧠',
+    description: 'NSF Brain Bee — Neuroscience & Nervous System',
+    levels: [
+      { id: 'BB', label: 'BB', gradeRange: 'Grades 6-8' },
+    ],
+  },
 ];
 
 export default function HomePage() {
