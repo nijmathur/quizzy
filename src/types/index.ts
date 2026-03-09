@@ -1,0 +1,34 @@
+export interface Question {
+  id: string;
+  subject: 'science' | 'math';
+  level: string; // 'JSC' | 'MB1' | 'MB2' | 'MB3'
+  gradeRange: string;
+  topic: string;
+  question: string;
+  options: string[];
+  correctIndex: number;
+  explanation: string;
+}
+
+export interface QuizAttempt {
+  id: string;
+  date: string;
+  subject: string;
+  level: string;
+  gradeRange: string;
+  topic: string;
+  score: number;
+  total: number;
+  answers: number[];
+  questions: Question[];
+}
+
+export interface TopicProgress {
+  subject: string;
+  level: string;
+  gradeRange: string;
+  topic: string;
+  attempts: number;
+  bestScore: number;
+  lastScore: number;
+}
