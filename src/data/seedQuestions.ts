@@ -1,6 +1,7 @@
 import type { Question } from '../types';
+import { iscSscGeoQuestions } from './iscSscGeoQuestions';
 
-export const seedQuestions: Question[] = [
+const jscMathQuestions: Question[] = [
   // ─── SCIENCE JSC – PLANTS ───────────────────────────────────────────────────
   {
     id: 's-plants-1',
@@ -1397,3 +1398,5 @@ export const seedQuestions: Question[] = [
     explanation: 'Factor: (x − 2)(x − 3) = 0. So x = 2 or x = 3.',
   },
 ];
+
+export const seedQuestions: Question[] = [...jscMathQuestions, ...iscSscGeoQuestions];

@@ -7,8 +7,12 @@ const SUBJECTS = [
     id: 'science',
     label: 'Science Bee',
     emoji: '🔬',
-    description: 'JSC Science — Life, Earth & Physical Sciences',
-    levels: [{ id: 'JSC', label: 'JSC', gradeRange: 'Grades 1-3' }],
+    description: 'NSF Science — Grades 1–8 (JSC, ISC, SSC)',
+    levels: [
+      { id: 'JSC', label: 'JSC', gradeRange: 'Grades 1-3' },
+      { id: 'ISC', label: 'ISC', gradeRange: 'Grades 4-5' },
+      { id: 'SSC', label: 'SSC', gradeRange: 'Grades 6-8' },
+    ],
   },
   {
     id: 'math',
@@ -19,6 +23,16 @@ const SUBJECTS = [
       { id: 'MB1', label: 'Level 1 (MB1)', gradeRange: 'Grades K-3' },
       { id: 'MB2', label: 'Level 2 (MB2)', gradeRange: 'Grades 4-5' },
       { id: 'MB3', label: 'Level 3 (MB3)', gradeRange: 'Grades 6-8' },
+    ],
+  },
+  {
+    id: 'geography',
+    label: 'Geography Bee',
+    emoji: '🌍',
+    description: 'NSF Geography Bee — Grades 1–8 (JGB, SGB)',
+    levels: [
+      { id: 'JGB', label: 'JGB', gradeRange: 'Grades 1-3' },
+      { id: 'SGB', label: 'SGB', gradeRange: 'Grades 4-8' },
     ],
   },
 ];

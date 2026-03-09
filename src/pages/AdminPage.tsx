@@ -16,11 +16,19 @@ const EMPTY_FORM: FormData = {
 };
 
 const LEVELS: Record<string, { level: string; gradeRange: string }[]> = {
-  science: [{ level: 'JSC', gradeRange: 'Grades 1-3' }],
+  science: [
+    { level: 'JSC', gradeRange: 'Grades 1-3' },
+    { level: 'ISC', gradeRange: 'Grades 4-5' },
+    { level: 'SSC', gradeRange: 'Grades 6-8' },
+  ],
   math: [
     { level: 'MB1', gradeRange: 'Grades K-3' },
     { level: 'MB2', gradeRange: 'Grades 4-5' },
     { level: 'MB3', gradeRange: 'Grades 6-8' },
+  ],
+  geography: [
+    { level: 'JGB', gradeRange: 'Grades 1-3' },
+    { level: 'SGB', gradeRange: 'Grades 4-8' },
   ],
 };
 
@@ -54,7 +62,7 @@ export default function AdminPage() {
     setShowForm(true);
   }
 
-  function handleSubjectChange(subject: 'science' | 'math') {
+  function handleSubjectChange(subject: 'science' | 'math' | 'geography') {
     const levels = LEVELS[subject];
     setForm(f => ({ ...f, subject, level: levels[0].level, gradeRange: levels[0].gradeRange }));
   }
@@ -124,6 +132,7 @@ export default function AdminPage() {
           <option value="">All subjects</option>
           <option value="science">Science</option>
           <option value="math">Math</option>
+          <option value="geography">Geography</option>
         </select>
         <select
           value={filter.level}
@@ -132,9 +141,13 @@ export default function AdminPage() {
         >
           <option value="">All levels</option>
           <option value="JSC">JSC</option>
+          <option value="ISC">ISC</option>
+          <option value="SSC">SSC</option>
           <option value="MB1">MB1</option>
           <option value="MB2">MB2</option>
           <option value="MB3">MB3</option>
+          <option value="JGB">JGB</option>
+          <option value="SGB">SGB</option>
         </select>
         <select
           value={filter.topic}
@@ -206,11 +219,12 @@ export default function AdminPage() {
                   <label className="block text-sm font-medium text-slate-600 mb-1">Subject</label>
                   <select
                     value={form.subject}
-                    onChange={e => handleSubjectChange(e.target.value as 'science' | 'math')}
+                    onChange={e => handleSubjectChange(e.target.value as 'science' | 'math' | 'geography')}
                     className="w-full border border-slate-200 rounded-lg px-3 py-2 text-sm"
                   >
                     <option value="science">Science</option>
                     <option value="math">Math</option>
+                    <option value="geography">Geography</option>
                   </select>
                 </div>
                 <div>

@@ -1,7 +1,7 @@
 export interface Question {
   id: string;
-  subject: 'science' | 'math';
-  level: string; // 'JSC' | 'MB1' | 'MB2' | 'MB3'
+  subject: 'science' | 'math' | 'geography';
+  level: string; // 'JSC' | 'ISC' | 'SSC' | 'MB1' | 'MB2' | 'MB3' | 'JGB' | 'SGB'
   gradeRange: string;
   topic: string;
   question: string;
