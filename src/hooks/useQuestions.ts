@@ -7,9 +7,19 @@ const STORAGE_KEY = 'quiz_questions';
 
 function loadQuestions(): Question[] {
   const stored = localStorage.getItem(STORAGE_KEY);
-  if (stored) return JSON.parse(stored);
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(seedQuestions));
-  return seedQuestions;
+  if (!stored) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(seedQuestions));
+    return seedQuestions;
+  }
+  const storedQuestions: Question[] = JSON.parse(stored);
+  const storedIds = new Set(storedQuestions.map(q => q.id));
+  const newSeedQuestions = seedQuestions.filter(q => !storedIds.has(q.id));
+  if (newSeedQuestions.length > 0) {
+    const merged = [...storedQuestions, ...newSeedQuestions];
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
+    return merged;
+  }
+  return storedQuestions;
 }
 
 function saveQuestions(questions: Question[]) {
