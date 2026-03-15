@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "bb-comp-1",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "This region, a part of the basal ganglia, loses the neurotransmitter dopamine when afflicted with Parkinson's disease.",
+    "options": [
+      "Medulla oblongata",
+      "Cerebellum",
+      "Substantia nigra",
+      "Putamen"
+    ],
+    "correctIndex": 2,
+    "explanation": "The substantia nigra is a region within the basal ganglia whose dopaminergic neurons degenerate in Parkinson's disease, causing the characteristic movement deficits."
+  },
+  {
+    "id": "bb-comp-2",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Myelin",
+    "question": "True or False: Myelination begins to decrease and stops altogether by age 40.",
+    "options": [
+      "True — myelination peaks in childhood and declines steadily",
+      "False — myelination continues well into adulthood and even middle age",
+      "True — the myelin sheath fully degrades after age 40",
+      "False — myelination never occurs after puberty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Myelination does NOT stop by age 40. It begins before birth and continues into early adulthood (even the late 20s for prefrontal regions), allowing ongoing refinement of neural circuits throughout life."
+  },
+  {
+    "id": "bb-comp-3",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurotransmitters",
+    "question": "Most drugs used for treating schizophrenia dampen the response of which neurotransmitter?",
+    "options": [
+      "Dopamine",
+      "Cortisol",
+      "Acetylcholine",
+      "Serotonin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Antipsychotic drugs used for schizophrenia primarily act as dopamine receptor antagonists, reducing excess dopaminergic signaling thought to underlie positive symptoms such as hallucinations and delusions."
+  },
+  {
+    "id": "bb-comp-4",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Senses",
+    "question": "What are the photoreceptors responsible for picking up fine detail and color?",
+    "options": [
+      "Fovea",
+      "Rods",
+      "Optic nerve",
+      "Cones"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cones are the photoreceptors concentrated in the fovea centralis that detect color and fine spatial detail. Rods, in contrast, function in dim light and detect motion but do not resolve color."
+  },
+  {
+    "id": "bb-comp-5",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurotransmitters",
+    "question": "What is the most common inhibitory neurotransmitter found in the central nervous system?",
+    "options": [
+      "Glutamate",
+      "Glycine",
+      "GABA",
+      "Acetylcholine"
+    ],
+    "correctIndex": 2,
+    "explanation": "GABA (gamma-aminobutyric acid) is the primary inhibitory neurotransmitter in the CNS. It hyperpolarizes neurons by increasing chloride ion influx, reducing the likelihood of an action potential."
+  },
+  {
+    "id": "bb-comp-6",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What type of epilepsy is characterized by a lack of movement and brief lapses of attention?",
+    "options": [
+      "Grand mal seizures",
+      "Petit mal (absence) seizures",
+      "Clonic seizures",
+      "Atonic seizures"
+    ],
+    "correctIndex": 1,
+    "explanation": "Petit mal, or absence seizures, cause brief episodes of staring and unresponsiveness without convulsions. They are most common in children and are associated with generalized spike-and-wave discharges on EEG."
+  },
+  {
+    "id": "bb-comp-7",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Memory",
+    "question": "What type of memory is used when you perform learned skills like driving a car or riding a bicycle?",
+    "options": [
+      "Semantic memory",
+      "Working memory",
+      "Non-declarative (procedural) memory",
+      "Declarative memory"
+    ],
+    "correctIndex": 2,
+    "explanation": "Non-declarative (procedural) memory stores learned motor skills and habits. It is implicit — you execute the skill automatically without consciously recalling the steps. The basal ganglia and cerebellum are key structures."
+  },
+  {
+    "id": "bb-comp-8",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Senses",
+    "question": "What visual disorder causes an inability to fuse information received from both eyes, often resulting in double vision or a turned eye?",
+    "options": [
+      "Strabismus",
+      "Blindness",
+      "Glaucoma",
+      "Cataracts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Strabismus is a misalignment of the eyes that prevents binocular fusion. The brain may suppress input from one eye (amblyopia), and early treatment is critical for normal visual cortex development."
+  },
+  {
+    "id": "bb-comp-9",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Lobes",
+    "question": "What lobe of the brain is home to the primary auditory cortex?",
+    "options": [
+      "Occipital lobe",
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe"
+    ],
+    "correctIndex": 3,
+    "explanation": "The primary auditory cortex (Heschl's gyri, Brodmann areas 41 and 42) is located within the superior temporal gyrus of the temporal lobe, where sound frequency and other auditory features are processed."
+  },
+  {
+    "id": "bb-comp-10",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Development",
+    "question": "Which embryonic layer formed during the first stages of development later develops into the neural tube?",
+    "options": [
+      "Endoderm",
+      "Ectoderm",
+      "Mesoderm",
+      "Mesenchyme"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ectoderm gives rise to the nervous system through neurulation. The dorsal ectoderm thickens into the neural plate, which folds to form the neural tube — the precursor to the brain and spinal cord."
+  },
+  {
+    "id": "bb-comp-11",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "How many lobes are found in the cerebral cortex?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each cerebral hemisphere is divided into four lobes: frontal, parietal, temporal, and occipital. Some sources add the insula as a fifth lobe, but the standard anatomical answer is four."
+  },
+  {
+    "id": "bb-comp-12",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Nervous System",
+    "question": "Which of the following structures is NOT part of the central nervous system?",
+    "options": [
+      "Hippocampus",
+      "Spinal cord",
+      "Cerebellum",
+      "Sympathetic ganglia"
+    ],
+    "correctIndex": 3,
+    "explanation": "The sympathetic ganglia are part of the peripheral nervous system (autonomic division). The hippocampus, spinal cord, and cerebellum are all CNS structures contained within the bony protective coverings."
+  },
+  {
+    "id": "bb-comp-13",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Memory",
+    "question": "What part of the brain might be damaged if someone has lost the ability to form new long-term memories?",
+    "options": [
+      "Hypothalamus",
+      "Basal ganglia",
+      "Hippocampus",
+      "Occipital cortex"
+    ],
+    "correctIndex": 2,
+    "explanation": "The hippocampus is essential for consolidating new declarative memories. The classic patient H.M., who had his hippocampus surgically removed, could not form new long-term memories — a condition called anterograde amnesia."
+  },
+  {
+    "id": "bb-comp-14",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuron Structure",
+    "question": "Which type of neuron receives sensory information from the external world and conveys it to the central nervous system?",
+    "options": [
+      "Motor neuron",
+      "Interneuron",
+      "Sensory neuron",
+      "Efferent neuron"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sensory (afferent) neurons carry signals from sensory receptors in the skin, eyes, ears, and other organs to the CNS. Motor (efferent) neurons carry signals from the CNS to muscles and glands."
+  },
+  {
+    "id": "bb-comp-15",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "About how many neurons does the human brain contain?",
+    "options": [
+      "1 billion",
+      "7 billion",
+      "86 billion",
+      "250 billion"
+    ],
+    "correctIndex": 2,
+    "explanation": "The human brain contains approximately 86 billion neurons, according to careful cell-counting studies by Azevedo et al. (2009). An equal number of non-neuronal glial cells are also present."
+  },
+  {
+    "id": "bb-comp-16",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Lobes",
+    "question": "Which part of the brain is primarily responsible for rational and logical decision-making?",
+    "options": [
+      "Prefrontal cortex",
+      "Hypothalamus",
+      "Amygdala",
+      "Cingulate cortex"
+    ],
+    "correctIndex": 0,
+    "explanation": "The prefrontal cortex (PFC) governs executive functions including planning, impulse control, and rational decision-making. It is one of the last brain regions to fully mature — not until the mid-20s."
+  },
+  {
+    "id": "bb-comp-17",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Senses",
+    "question": "Together with taste, which other sense allows us to distinguish thousands of different flavors?",
+    "options": [
+      "Vision",
+      "Hearing",
+      "Touch",
+      "Smell"
+    ],
+    "correctIndex": 3,
+    "explanation": "Flavor perception is a combination of taste (gustation) and smell (olfaction). Olfactory signals from food volatiles travel retronasally to the olfactory epithelium, dramatically expanding the range of distinguishable flavors."
+  },
+  {
+    "id": "bb-comp-18",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Lobes",
+    "question": "What type of sensory information from the outside world is processed in the occipital lobe?",
+    "options": [
+      "Vision",
+      "Touch",
+      "Hearing",
+      "Smell"
+    ],
+    "correctIndex": 0,
+    "explanation": "The occipital lobe houses the primary visual cortex (V1) and higher visual processing areas. Signals from the retina travel via the optic nerve and lateral geniculate nucleus to reach V1 at the back of the brain."
+  },
+  {
+    "id": "bb-comp-19",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "In Alzheimer's disease, neurons in which region of the brain are among the first to degenerate and die?",
+    "options": [
+      "Midbrain",
+      "Hippocampus",
+      "Brainstem",
+      "Spinal cord"
+    ],
+    "correctIndex": 1,
+    "explanation": "The hippocampus and entorhinal cortex are among the earliest and most severely affected regions in Alzheimer's disease, which is why memory loss (especially of recent events) is an early symptom."
+  },
+  {
+    "id": "bb-comp-20",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "A stroke can be caused by which of the following?",
+    "options": [
+      "A lack of blood flow to part of the brain (ischemic stroke)",
+      "Bleeding from a blood vessel in the brain (hemorrhagic stroke)",
+      "A clot lodging in a cerebral blood vessel",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "explanation": "Strokes can be ischemic (caused by a blockage reducing blood flow) or hemorrhagic (caused by a ruptured vessel). Both types deprive neurons of oxygen and glucose, causing rapid cell death."
+  },
+  {
+    "id": "bb-comp-21",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "What type of motor function does the basal ganglia primarily help coordinate?",
+    "options": [
+      "Voluntary movement initiation and modulation",
+      "Hearing",
+      "Vision",
+      "Taste"
+    ],
+    "correctIndex": 0,
+    "explanation": "The basal ganglia are a group of subcortical nuclei (including the striatum, globus pallidus, and substantia nigra) that help initiate and modulate voluntary movements, and are also involved in habit formation and reward."
+  },
+  {
+    "id": "bb-comp-22",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Memory",
+    "question": "What type of memory consists of facts, concepts, and cultural knowledge (e.g., knowing that Paris is the capital of France)?",
+    "options": [
+      "Episodic memory",
+      "Semantic memory",
+      "Motor memory",
+      "Working memory"
+    ],
+    "correctIndex": 1,
+    "explanation": "Semantic memory is a form of long-term declarative memory that stores general world knowledge, facts, and concepts — independent of personal experience. It differs from episodic memory, which stores personally experienced events."
+  },
+  {
+    "id": "bb-comp-23",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "The biologic clock that regulates circadian rhythms is located in what part of the brain?",
+    "options": [
+      "Pineal gland",
+      "Hypothalamus (suprachiasmatic nucleus)",
+      "Hippocampus",
+      "Thalamus"
+    ],
+    "correctIndex": 1,
+    "explanation": "The suprachiasmatic nucleus (SCN) of the hypothalamus is the master circadian clock. It receives light information directly from the retina and coordinates daily rhythms of sleep, hormone secretion, and metabolism."
+  },
+  {
+    "id": "bb-comp-24",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurotransmitters",
+    "question": "Prozac (fluoxetine) relieves symptoms of depression by affecting which neurotransmitter system?",
+    "options": [
+      "Dopamine",
+      "GABA",
+      "Serotonin",
+      "Norepinephrine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fluoxetine (Prozac) is a selective serotonin reuptake inhibitor (SSRI). It blocks the reuptake of serotonin into the presynaptic neuron, increasing the amount of serotonin available at the synapse."
+  },
+  {
+    "id": "bb-comp-25",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuron Structure",
+    "question": "The Greek word for 'branches of a tree' gives us the name of what part of a neuron?",
+    "options": [
+      "Axon",
+      "Myelin sheath",
+      "Dendrites",
+      "Synapse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dendrites derive their name from the Greek 'dendron' (tree). They are branched extensions of the neuron cell body that receive incoming signals from other neurons at synaptic contacts."
+  },
+  {
+    "id": "bb-comp-26",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What is the most common type of inherited intellectual disability?",
+    "options": [
+      "Down syndrome",
+      "Fragile X syndrome",
+      "Phenylketonuria (PKU)",
+      "Angelman syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fragile X syndrome, caused by expansion of a CGG repeat in the FMR1 gene on the X chromosome, is the most common inherited cause of intellectual disability and the most common single-gene cause of autism spectrum disorder."
+  },
+  {
+    "id": "bb-comp-27",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What peptide accumulates in the senile plaques found in the brains of Alzheimer's disease patients?",
+    "options": [
+      "Alpha-synuclein",
+      "Tau protein",
+      "Beta-amyloid",
+      "Huntingtin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Beta-amyloid (Aβ) peptides aggregate to form extracellular senile plaques, a pathological hallmark of Alzheimer's disease. They are produced by cleavage of the amyloid precursor protein (APP)."
+  },
+  {
+    "id": "bb-comp-28",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What chromosome is mutated to cause Huntington's disease?",
+    "options": [
+      "Chromosome 21",
+      "Chromosome X",
+      "Chromosome 4",
+      "Chromosome 17"
+    ],
+    "correctIndex": 2,
+    "explanation": "Huntington's disease is caused by an expanded CAG repeat in the HTT gene on chromosome 4. It is autosomal dominant, meaning one mutated copy is sufficient to cause disease."
+  },
+  {
+    "id": "bb-comp-29",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Imaging",
+    "question": "The abbreviation PET, as used in brain imaging, stands for what technique?",
+    "options": [
+      "Peripheral electrical tomography",
+      "Positron emission tomography",
+      "Proton emission tracking",
+      "Pulsed electron tomography"
+    ],
+    "correctIndex": 1,
+    "explanation": "Positron emission tomography (PET) uses radioactive tracers that emit positrons. When they annihilate electrons, gamma rays are detected to produce images of metabolic activity or receptor density in the living brain."
+  },
+  {
+    "id": "bb-comp-30",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What is the leading preventable cause of intellectual disability?",
+    "options": [
+      "Lead poisoning",
+      "Fragile X syndrome",
+      "Fetal alcohol syndrome",
+      "Congenital hypothyroidism"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fetal alcohol syndrome (FAS), caused by prenatal alcohol exposure, is the leading preventable cause of intellectual disability. Alcohol is a teratogen that disrupts neuronal migration and brain development."
+  },
+  {
+    "id": "bb-comp-31",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What cognitive disorder is associated with chronic alcoholism due to thiamine (vitamin B1) deficiency?",
+    "options": [
+      "Alzheimer's disease",
+      "Korsakoff's syndrome",
+      "Wernicke's encephalopathy only",
+      "Huntington's disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Korsakoff's syndrome results from thiamine deficiency, usually in the context of chronic alcohol use. It is characterized by severe anterograde and retrograde amnesia, confabulation, and damage to the mammillary bodies and thalamus."
+  },
+  {
+    "id": "bb-comp-32",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Myelin",
+    "question": "What is the function of oligodendrocytes in the central nervous system?",
+    "options": [
+      "Clean up cellular debris after injury",
+      "Supply nutrients directly from blood to neurons",
+      "Create the myelin sheath around axons",
+      "Detect and respond to infection"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oligodendrocytes are glial cells of the CNS that wrap their processes around axons to form the myelin sheath. A single oligodendrocyte can myelinate up to 50 axon segments, unlike Schwann cells in the PNS (which myelinate only one)."
+  },
+  {
+    "id": "bb-comp-33",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuron Structure",
+    "question": "Gaps in the myelin sheath along an axon are called:",
+    "options": [
+      "Dendrites",
+      "Synaptic clefts",
+      "Astrocytes",
+      "Nodes of Ranvier"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nodes of Ranvier are periodic gaps in the myelin sheath where voltage-gated ion channels are concentrated. Action potentials 'jump' between nodes in a process called saltatory conduction, greatly increasing transmission speed."
+  },
+  {
+    "id": "bb-comp-34",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuron Structure",
+    "question": "Which glial cell type connects neurons to blood vessels and helps maintain the blood-brain barrier?",
+    "options": [
+      "Microglia",
+      "Astrocyte",
+      "Oligodendrocyte",
+      "Schwann cell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Astrocytes extend end-feet processes onto capillaries to form the blood-brain barrier, regulate the extracellular environment, and provide metabolic support to neurons. They are the most abundant glial cell type in the CNS."
+  },
+  {
+    "id": "bb-comp-35",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuron Structure",
+    "question": "What ions are primarily responsible for generating a nerve impulse (action potential)?",
+    "options": [
+      "Calcium and chloride",
+      "Oxygen and carbon",
+      "Potassium and sodium",
+      "Hydrogen and magnesium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Action potentials are driven by rapid influx of Na+ ions (depolarization phase) followed by efflux of K+ ions (repolarization phase) through voltage-gated channels. The Na+/K+ ATPase then restores resting ion gradients."
+  },
+  {
+    "id": "bb-comp-36",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Synapses",
+    "question": "The chemical that moves from the axon terminal of one neuron across a gap to the next neuron is called a(n):",
+    "options": [
+      "Gray matter signal",
+      "Threshold stimulant",
+      "Neurotransmitter",
+      "Sodium ion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neurotransmitters are chemical messengers released from synaptic vesicles in the presynaptic terminal. They diffuse across the synaptic cleft and bind receptors on the postsynaptic neuron to transmit the signal."
+  },
+  {
+    "id": "bb-comp-37",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Myelin",
+    "question": "Why does white matter appear white in the brain?",
+    "options": [
+      "It has no blood supply",
+      "It contains a high density of myelin sheaths",
+      "It lacks neuronal cell nuclei",
+      "It carries inhibitory electrical charges only"
+    ],
+    "correctIndex": 1,
+    "explanation": "White matter gets its color from the high lipid content of myelin sheaths surrounding axons. Myelin is produced by oligodendrocytes and gives white matter its characteristic pale appearance compared to the gray matter of neuronal cell bodies."
+  },
+  {
+    "id": "bb-comp-38",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Nervous System",
+    "question": "Reflexes occur when impulses travel from a sensory receptor to which structure, then back to the muscle?",
+    "options": [
+      "Brain",
+      "Spinal cord",
+      "Dendrite",
+      "Axon terminal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Simple reflexes are mediated by reflex arcs in the spinal cord, bypassing the brain for speed. The sensory neuron synapses on an interneuron (or directly on a motor neuron) in the spinal cord, which then drives the motor response."
+  },
+  {
+    "id": "bb-comp-39",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Nervous System",
+    "question": "Skeletal muscles involved in voluntary movement are controlled by which division of the nervous system?",
+    "options": [
+      "Brainstem autonomic nuclei",
+      "Autonomic nervous system",
+      "Somatic nervous system",
+      "Enteric nervous system"
+    ],
+    "correctIndex": 2,
+    "explanation": "The somatic nervous system controls voluntary skeletal muscle movement. Somatic motor neurons originate in the spinal cord and motor cortex and synapse directly on skeletal muscle fibers."
+  },
+  {
+    "id": "bb-comp-40",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuron Structure",
+    "question": "When a threshold stimulus is reached, what event is triggered in a neuron?",
+    "options": [
+      "A graded potential",
+      "Passive diffusion of neurotransmitters",
+      "An action potential",
+      "Retrograde axonal transport"
+    ],
+    "correctIndex": 2,
+    "explanation": "When membrane depolarization reaches the threshold (typically around -55 mV), voltage-gated Na+ channels open massively and an all-or-none action potential is fired. Below threshold, only subthreshold graded potentials occur."
+  },
+  {
+    "id": "bb-comp-41",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "Stargazer mice are experimental models for which type of epilepsy?",
+    "options": [
+      "Grand mal (tonic-clonic) epilepsy",
+      "Temporal lobe epilepsy",
+      "Absence (petit mal) epilepsy",
+      "Infantile spasms"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stargazer mice carry a mutation in the TARP (transmembrane AMPA receptor regulatory protein) stargazin gene, causing absence seizures and ataxia. They are a well-studied model for absence epilepsy research."
+  },
+  {
+    "id": "bb-comp-42",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Imaging",
+    "question": "What device measures electrical brain waves (brain activity via electrodes on the scalp)?",
+    "options": [
+      "Positron emission tomograph (PET)",
+      "Electroencephalograph (EEG)",
+      "Functional MRI scanner (fMRI)",
+      "Magnetoencephalograph (MEG)"
+    ],
+    "correctIndex": 1,
+    "explanation": "An electroencephalograph (EEG) records electrical activity produced by synchronized neuronal firing using electrodes placed on the scalp. It is widely used to diagnose epilepsy and study sleep stages."
+  },
+  {
+    "id": "bb-comp-43",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What is the name of the neurodegenerative disease also known as Lou Gehrig's disease?",
+    "options": [
+      "Multiple sclerosis",
+      "Amyotrophic lateral sclerosis (ALS)",
+      "Myasthenia gravis",
+      "Guillain-Barre syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Amyotrophic lateral sclerosis (ALS), nicknamed Lou Gehrig's disease after the baseball legend who was diagnosed in 1939, is a progressive motor neuron disease causing muscle weakness, atrophy, and eventually paralysis."
+  },
+  {
+    "id": "bb-comp-44",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "What surgical procedure destroys part of the globus pallidus and has been used to help Parkinson's disease patients?",
+    "options": [
+      "Thalamotomy",
+      "Lobotomy",
+      "Pallidotomy",
+      "Deep brain stimulation implantation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pallidotomy involves lesioning the globus pallidus internus (GPi) to reduce the excessive inhibitory output that suppresses motor activity in Parkinson's disease. It reduces tremor, rigidity, and dyskinesias."
+  },
+  {
+    "id": "bb-comp-45",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "In the mock patient scenario — a 47-year-old woman with episodic blurry vision, muscle spasms, tingling limbs, and unsteadiness lasting at least 24 hours — what is the most likely diagnosis?",
+    "options": [
+      "Migraine with aura",
+      "Lyme disease",
+      "Multiple sclerosis",
+      "Lupus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiple sclerosis (MS) is characterized by episodic, relapsing neurological symptoms (attacks lasting >24 hours) caused by immune-mediated demyelination throughout the CNS. The combination of visual, sensory, and motor symptoms in a middle-aged woman is classic."
+  },
+  {
+    "id": "bb-comp-46",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurotransmitters",
+    "question": "Which neurotransmitter is released by motor neurons at the neuromuscular junction to stimulate voluntary muscle contraction?",
+    "options": [
+      "Dopamine",
+      "Acetylcholine",
+      "GABA",
+      "Glutamate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acetylcholine (ACh) is released by somatic motor neurons at the neuromuscular junction. It binds nicotinic ACh receptors on the muscle fiber, triggering depolarization and ultimately muscle contraction."
+  },
+  {
+    "id": "bb-comp-47",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Myelin",
+    "question": "In the peripheral nervous system, which cell type is responsible for myelinating a single axon segment?",
+    "options": [
+      "Oligodendrocyte",
+      "Astrocyte",
+      "Schwann cell",
+      "Microglia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Schwann cells myelinate axons in the PNS, with each Schwann cell wrapping around only one axon segment. In contrast, CNS oligodendrocytes can myelinate up to 50 axon segments simultaneously."
+  },
+  {
+    "id": "bb-comp-48",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Development",
+    "question": "What molecules, such as netrins and semaphorins, guide growing axons to their correct targets during brain development?",
+    "options": [
+      "Neurotrophins",
+      "Guidance molecules (axon guidance cues)",
+      "Myelin-associated glycoproteins",
+      "Synaptic adhesion molecules"
+    ],
+    "correctIndex": 1,
+    "explanation": "Netrins and semaphorins are axon guidance molecules (chemotropic cues) that attract or repel growing axon growth cones to steer them to their correct synaptic targets during nervous system development."
+  },
+  {
+    "id": "bb-comp-49",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuroplasticity",
+    "question": "What term describes the brain's ability to reorganize itself by forming new neural connections throughout life?",
+    "options": [
+      "Myelination",
+      "Neurodegeneration",
+      "Neuroplasticity",
+      "Synaptogenesis only during childhood"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neuroplasticity refers to the brain's lifelong capacity to reorganize neural pathways in response to experience, injury, or learning. It underlies recovery after brain damage and the ability to learn new skills."
+  },
+  {
+    "id": "bb-comp-50",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Synapses",
+    "question": "What term describes the strengthening of a synapse that occurs when two neurons repeatedly fire together, often summarized as 'neurons that fire together, wire together'?",
+    "options": [
+      "Long-term depression (LTD)",
+      "Long-term potentiation (LTP)",
+      "Synaptic pruning",
+      "Habituation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Long-term potentiation (LTP) is a persistent strengthening of synaptic transmission following high-frequency stimulation. It requires NMDA receptor activation and AMPA receptor insertion, and is the leading cellular model of learning and memory."
+  },
+  {
+    "id": "bb-comp-51",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurotransmitters",
+    "question": "Which neurotransmitter is the primary excitatory neurotransmitter in the central nervous system?",
+    "options": [
+      "GABA",
+      "Glycine",
+      "Glutamate",
+      "Serotonin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Glutamate is the most abundant excitatory neurotransmitter in the CNS, acting on AMPA, NMDA, and kainate receptors. Excessive glutamate release causes excitotoxicity, which contributes to neuron death in stroke and TBI."
+  },
+  {
+    "id": "bb-comp-52",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "Which brain structure acts as the main relay station, routing sensory information (except smell) to the appropriate cortical areas?",
+    "options": [
+      "Hypothalamus",
+      "Thalamus",
+      "Hippocampus",
+      "Amygdala"
+    ],
+    "correctIndex": 1,
+    "explanation": "The thalamus serves as the brain's central relay hub. It receives sensory input from the eyes, ears, skin, and tongue and forwards the signals to the corresponding primary sensory cortices. Olfactory signals bypass the thalamus and project directly to the cortex."
+  },
+  {
+    "id": "bb-comp-53",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "Which brain region coordinates balance, fine motor control, and the timing of movements?",
+    "options": [
+      "Basal ganglia",
+      "Cerebellum",
+      "Motor cortex",
+      "Brainstem"
+    ],
+    "correctIndex": 1,
+    "explanation": "The cerebellum contains more than half of the brain's neurons and is essential for fine-tuning movement, maintaining balance, and timing motor sequences. Damage causes ataxia — uncoordinated, lurching movements."
+  },
+  {
+    "id": "bb-comp-54",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "The amygdala is most closely associated with processing which of the following?",
+    "options": [
+      "Language production",
+      "Fear and emotional responses",
+      "Voluntary motor control",
+      "Conscious sensory perception"
+    ],
+    "correctIndex": 1,
+    "explanation": "The amygdala, an almond-shaped structure in the temporal lobe, is central to processing emotions — especially fear and threat detection. It triggers the fight-or-flight response and modulates the formation of emotionally charged memories."
+  },
+  {
+    "id": "bb-comp-55",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurotransmitters",
+    "question": "Which neuromodulator system, centered in the locus coeruleus of the brainstem, is involved in attention, arousal, and the stress response?",
+    "options": [
+      "Dopaminergic system",
+      "Serotonergic system",
+      "Noradrenergic (norepinephrine) system",
+      "Cholinergic system"
+    ],
+    "correctIndex": 2,
+    "explanation": "The locus coeruleus in the pons is the main source of norepinephrine (noradrenaline) in the brain. Its projections modulate arousal, attention, and the stress response, and dysfunction is implicated in PTSD and ADHD."
+  },
+  {
+    "id": "bb-comp-56",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Lobes",
+    "question": "The primary somatosensory cortex, which processes touch, pressure, and proprioception from the body, is located in which lobe?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Occipital lobe",
+      "Temporal lobe"
+    ],
+    "correctIndex": 1,
+    "explanation": "The primary somatosensory cortex (S1) lies in the postcentral gyrus of the parietal lobe (Brodmann areas 1, 2, and 3). It is organized somatotopically — different body regions map to specific cortical areas (the sensory homunculus)."
+  },
+  {
+    "id": "bb-comp-57",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Lobes",
+    "question": "Broca's area, critical for speech production, is located in which lobe of the brain?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Broca's area (Brodmann areas 44 and 45) is located in the inferior frontal gyrus of the left frontal lobe in most right-handed individuals. Damage causes Broca's (expressive) aphasia — difficulty producing fluent speech."
+  },
+  {
+    "id": "bb-comp-58",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuroplasticity",
+    "question": "Synaptic pruning, which eliminates unused synaptic connections, is especially active during which life stage?",
+    "options": [
+      "Prenatal development only",
+      "Adolescence",
+      "Midlife (ages 40-60)",
+      "Old age"
+    ],
+    "correctIndex": 1,
+    "explanation": "Synaptic pruning peaks during adolescence, particularly in the prefrontal cortex. Experience-dependent pruning refines neural circuits by eliminating weak or redundant synapses — an essential step in cognitive development."
+  },
+  {
+    "id": "bb-comp-59",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Nervous System",
+    "question": "Which division of the autonomic nervous system is activated during a 'fight-or-flight' response, increasing heart rate and dilating pupils?",
+    "options": [
+      "Somatic nervous system",
+      "Parasympathetic nervous system",
+      "Sympathetic nervous system",
+      "Enteric nervous system"
+    ],
+    "correctIndex": 2,
+    "explanation": "The sympathetic nervous system mobilizes the body for action ('fight or flight'): it increases heart rate, dilates pupils, inhibits digestion, and releases epinephrine from the adrenal medulla. The parasympathetic system does the opposite ('rest and digest')."
+  },
+  {
+    "id": "bb-comp-60",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Imaging",
+    "question": "Which brain imaging technique uses magnetic fields and radio waves to produce detailed images of brain structure without ionizing radiation?",
+    "options": [
+      "CT scan",
+      "PET scan",
+      "MRI (magnetic resonance imaging)",
+      "SPECT scan"
+    ],
+    "correctIndex": 2,
+    "explanation": "MRI uses powerful magnetic fields and radiofrequency pulses to align and then detect signals from hydrogen atoms in brain tissue. It provides excellent soft-tissue contrast without the ionizing radiation used in CT or PET scans."
+  },
+  {
+    "id": "bb-comp-61",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neuron Structure",
+    "question": "What is the resting membrane potential of a typical neuron?",
+    "options": [
+      "Approximately +70 mV",
+      "Approximately -70 mV",
+      "Approximately 0 mV",
+      "Approximately -40 mV"
+    ],
+    "correctIndex": 1,
+    "explanation": "At rest, the inside of a neuron is approximately -70 mV relative to the outside, maintained by the Na+/K+ ATPase pump and selective ion permeability. This resting potential is the baseline from which action potentials are generated."
+  },
+  {
+    "id": "bb-comp-62",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "Which of the following is the primary pathological feature distinguishing Parkinson's disease at the cellular level?",
+    "options": [
+      "Beta-amyloid plaques",
+      "Neurofibrillary tangles",
+      "Lewy bodies (alpha-synuclein aggregates)",
+      "TDP-43 inclusions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lewy bodies — intracellular inclusions composed primarily of misfolded alpha-synuclein protein — are the hallmark of Parkinson's disease. They accumulate in surviving dopaminergic neurons of the substantia nigra and other brain regions."
+  },
+  {
+    "id": "bb-comp-63",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Nervous System",
+    "question": "What is the name for the protective membranes that surround the brain and spinal cord?",
+    "options": [
+      "Meninges",
+      "Dura mater only",
+      "Myelin sheaths",
+      "Ependymal lining"
+    ],
+    "correctIndex": 0,
+    "explanation": "The meninges are three protective membranes enveloping the CNS: the outer dura mater, the middle arachnoid mater (below which circulates cerebrospinal fluid), and the inner pia mater directly overlying brain and spinal cord tissue."
+  },
+  {
+    "id": "bb-comp-64",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Brain Structure",
+    "question": "What fluid fills the ventricles of the brain and the space between the arachnoid and pia mater, cushioning the brain from impact?",
+    "options": [
+      "Interstitial fluid",
+      "Cerebrospinal fluid (CSF)",
+      "Lymph",
+      "Blood plasma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cerebrospinal fluid (CSF) is produced by the choroid plexus inside the ventricles. It circulates through the ventricular system and subarachnoid space, providing buoyancy, nutrient delivery, and waste removal for the brain."
+  },
+  {
+    "id": "bb-comp-65",
+    "subject": "brainBee",
+    "level": "BB",
+    "gradeRange": "Grades 6-12",
+    "topic": "Neurological Conditions",
+    "question": "Which autoimmune disease causes demyelination in the central nervous system, leading to episodes of muscle weakness, vision problems, and sensory loss?",
+    "options": [
+      "Guillain-Barré syndrome",
+      "Myasthenia gravis",
+      "Multiple sclerosis",
+      "Amyotrophic lateral sclerosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiple sclerosis (MS) is an autoimmune disease in which the immune system attacks myelin in the CNS, forming sclerotic plaques. Symptoms vary based on lesion location and follow a relapsing-remitting or progressive course."
+  }
+]
